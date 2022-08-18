@@ -1,0 +1,39 @@
+body{
+    background-color:red;
+}
+h1{
+    color:yellow;
+    font-family: 'segoe UI';
+    font-size: medium;
+}
+
+
+
+.header
+{
+    display: flex;
+    background-color:green;
+    color:pink;
+}
+
+
+.products
+{
+
+display:flex;
+flex-direction:column;
+justify-content: space-between;
+}
+.header{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+}
+.hlink
+{
+    display: flex;
+    margin-left: 1100px;
+    padding: 50px;
+    justify-content: space-between;
+}
+	
